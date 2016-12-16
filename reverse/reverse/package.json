@@ -1,0 +1,19 @@
+{
+  "name": "reverse",
+  "version": "1.0.0",
+  "description": "Reverse a string",
+  "main": "src/reverse.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "Reverse",
+    "algorithm"
+  ],
+  "author": "UT Coding Bootcamp at UT Austin",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
